@@ -1,2 +1,3 @@
 # Speed-System
- a car travels at 50 miles per hour, how far will it travel in 14 hours? Also, how many hours are required to travel 410 miles?” The solution to this problem uses the well-known formula Here’s how this problem would be solved with a computer program: Private Sub btnCompute_Click(...) Handles btnCompute.Click  lstResults.Items.Add(3 / 2)  lstResults.Items.Add(3 ^ 2)  lstResults.Items.Add(2 * (3 + 4)) End Sub [Run, and then click on the button.] distance = speed × time elapsed
+Evaluate Expressions The following program displays the default
+value of a variable and the value of an expression:
